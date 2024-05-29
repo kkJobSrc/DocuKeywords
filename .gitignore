@@ -1,0 +1,23 @@
+# Creating 
+./_keep/
+./result/
+./origin_pdf/
+./split_pdf/
+
+
+# Result files
+*.png
+*.csv
+*.pdf*
+*.json
+*.txt
+
+# python code
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+test.py
